@@ -10,10 +10,14 @@ QUESTIONS
 3. lastly we should highlight employees whose names begin with the letter 'E'(yellow) and also format the salary column in other for us to identify the highest salary and highlight in green background,then also identify the lowest salary and highlight in red background.
 
 4. EXCEL TOOLS USED IN ARRIVING AT ANSWERS
+
  1.Text to column
+ 
  2.condiontional formatting
+ 
  3.The use of filtering and sorting
 
+   
     ANSWERS
 
 8. DATA SET 
@@ -29,4 +33,5 @@ QUESTIONS
 ![image](https://github.com/Maris27/TASK-1-3rd-cohort-Data-Analysis-Training-/assets/140453106/e663f6af-d226-4e95-8910-decb4cc0f6af)
 
 CONCLUSION
+
 Am glad i was able to work on this task,really enjoyed the whole proces,looking out for more.
