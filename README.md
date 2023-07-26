@@ -20,8 +20,8 @@ QUESTIONS
    
     ANSWERS
 
-8. DATA SET 
-9. ![image](https://github.com/Maris27/TASK-1-3rd-cohort-Data-Analysis-Training-/assets/140453106/7a33621a-04ad-4402-b811-8351a2d85d33)
+    DATA SET 
+  ![image](https://github.com/Maris27/TASK-1-3rd-cohort-Data-Analysis-Training-/assets/140453106/7a33621a-04ad-4402-b811-8351a2d85d33)
 
 *For the first question i used the sort and filter tools on the home tab of my excel sheet to sort employees who are freelancers and after getting this, i used the condtional formatting to highlight those whose salaries are above $10,000
 10. ![image](https://github.com/Maris27/TASK-1-3rd-cohort-Data-Analysis-Training-/assets/140453106/c2e598b1-514d-4818-93ce-a066b402f21c)
